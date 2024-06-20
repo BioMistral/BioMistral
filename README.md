@@ -11,6 +11,8 @@ We've publicly released the weights for BioMistral 7B on Huggingface and our ful
 
 - 📊 Multilingual medical benchmark : <a href="https://huggingface.co/datasets/BioMistral/BioInstructQA">BioMistral/BioInstructQA</a>
 
+- 🤗 BioMistral 7B Chat - A free demonstrator (running on a A10 24GB GPU thanks to Hugging Face grant): <a href="https://huggingface.co/spaces/BioMistral/BioMistral-Chat">BioMistral/BioMistral-Chat</a>
+
 - 👩‍💻 GitHub: <a href="https://github.com/BioMistral/BioMistral">BioMistral/BioMistral</a>
 
 This project is the result of the collaboration between:
