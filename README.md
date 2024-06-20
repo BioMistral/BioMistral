@@ -7,7 +7,7 @@ BioMistral 7B is the best performing open-source medical Large Language Model (L
 
 We've publicly released the weights for BioMistral 7B on Huggingface and our full multilingual benchmark on GitHub.
 
-- 📰 Paper: BioMistral: <a href="https://arxiv.org/abs/2402.10373"> A Collection of Open-Source Pretrained Large Language Models for Medical Domains</a> (Accepted at ACL 2024)
+- 📰 Paper: <a href="https://arxiv.org/abs/2402.10373">BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains</a> (Accepted at ACL 2024)
 
 - 📊 Multilingual medical benchmark : <a href="https://huggingface.co/datasets/BioMistral/BioInstructQA">BioMistral/BioInstructQA</a>
 
